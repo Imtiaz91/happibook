@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.API", "PPOS.API\Happibook.API.csproj", "{F44FDEA9-6B4E-448F-A856-4E35464FBC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.Common", "PPOS.Common\Happibook.Common.csproj", "{A41B3ADD-4ED5-4F6F-A859-C7B6AB64EA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.Core", "PPOS.Core\Happibook.Core.csproj", "{AA05C9D9-09BF-4A3D-8F5A-7F44BCB32B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.Repository", "PPOS.Repository\Happibook.Repository.csproj", "{A309ECAC-8306-4792-B664-AB4F9AF443A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.Service", "PPOS.Service\Happibook.Service.csproj", "{A66E51BA-9179-4550-8301-E8E26D435EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Happibook.Test", "PPOS.Test\Happibook.Test.csproj", "{7390E128-DD90-47C0-BBB8-D6BD5D09FC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44FDEA9-6B4E-448F-A856-4E35464FBC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44FDEA9-6B4E-448F-A856-4E35464FBC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44FDEA9-6B4E-448F-A856-4E35464FBC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44FDEA9-6B4E-448F-A856-4E35464FBC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41B3ADD-4ED5-4F6F-A859-C7B6AB64EA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41B3ADD-4ED5-4F6F-A859-C7B6AB64EA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41B3ADD-4ED5-4F6F-A859-C7B6AB64EA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41B3ADD-4ED5-4F6F-A859-C7B6AB64EA31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA05C9D9-09BF-4A3D-8F5A-7F44BCB32B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA05C9D9-09BF-4A3D-8F5A-7F44BCB32B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA05C9D9-09BF-4A3D-8F5A-7F44BCB32B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA05C9D9-09BF-4A3D-8F5A-7F44BCB32B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A309ECAC-8306-4792-B664-AB4F9AF443A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A309ECAC-8306-4792-B664-AB4F9AF443A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A309ECAC-8306-4792-B664-AB4F9AF443A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A309ECAC-8306-4792-B664-AB4F9AF443A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A66E51BA-9179-4550-8301-E8E26D435EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A66E51BA-9179-4550-8301-E8E26D435EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A66E51BA-9179-4550-8301-E8E26D435EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A66E51BA-9179-4550-8301-E8E26D435EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7390E128-DD90-47C0-BBB8-D6BD5D09FC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7390E128-DD90-47C0-BBB8-D6BD5D09FC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7390E128-DD90-47C0-BBB8-D6BD5D09FC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7390E128-DD90-47C0-BBB8-D6BD5D09FC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1721DC9B-9BB1-4DE2-AE23-EDE127AAD0EB}
+	EndGlobalSection
+EndGlobal
